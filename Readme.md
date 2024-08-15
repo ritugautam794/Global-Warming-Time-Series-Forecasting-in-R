@@ -5,9 +5,9 @@ Global warming, a phenomenon marked by an overall increase in Earth's average su
 
 This report employs statistical analyses of global temperature data to provide evidence-based insights into global warming. The findings support concerns about temperature rise, discredit claims of halted warming, and validate assertions of increased temperature fluctuations. The "Climate Bet" analysis underscores the necessity of robust models, while long-term analyses emphasize the dynamic nature of climate patterns. These findings contri
 
-CONTEXT
+### CONTEXT
 The dynamics of climate and global temperatures exhibit natural variability across different cyclical timeframes, influenced by factors like Earth's orbital variations, solar radiation distribution, and recurring oceanic and atmospheric processes [1]. These cycles encompass periods ranging from short intervals such as ten years (El Niño, La Niña) to longer spans of hundreds and even tens of thousands of years (glacial and interglacial periods). Human activities, particularly the unregulated release of CO2 and deforestation, have the potential to amplify these natural cycles.
 Considering these factors, we formulated our initial model theory. Our approach involves incorporating distinct seasonality components to address two specific seasonal patterns:
-i 12-Month Annual Cycles: This captures the short-term variations associated with the changing seasons of Spring, Summer, Fall, and Winter
-ii 48-Month (4-Year) Cycles: This component addresses the inter-decadal El Niño and La Niña cycles, offering insights into longer-term climatic variations
+* i 12-Month Annual Cycles: This captures the short-term variations associated with the changing seasons of Spring, Summer, Fall, and Winter
+* ii 48-Month (4-Year) Cycles: This component addresses the inter-decadal El Niño and La Niña cycles, offering insights into longer-term climatic variations
 Our primary focus centers on forecasting global temperatures over the span of 77.5 years, specifically from July 2023 to December 2100. Additionally, it's important to acknowledge the disparity in temperature trends between the northern and southern hemispheres. The historical records indicate that the northern hemisphere has exhibited greater volatility and variability throughout the observation period. Notably, since the mid-1990s, a substantial temperature increase has been observed in the northern hemisphere compared to the southern hemisphere.
